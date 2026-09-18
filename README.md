@@ -13,6 +13,8 @@ is published here in full — free, citable, and machine-readable.
   per the standing "publish transcripts openly" decision, 2026-09-18).
 - `pack/` — items from each magazine issue's Builder Pack (workflows, SOPs, templates,
   source code) that are safe and useful to open-source.
+- `research/` — the public-safe research trail behind each magazine issue: the anchor video
+  summary, commissioned signals with sources, and what was tested.
 
 ## Using this with an AI
 Every file here is written to be dropped directly into a model's context. See `llms.txt` for
