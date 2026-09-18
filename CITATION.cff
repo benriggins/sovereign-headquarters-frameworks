@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these frameworks, please cite them as below."
+title: "Sovereign Headquarters — Frameworks"
+authors:
+  - family-names: Riggins
+    given-names: Benjamin
+url: "https://github.com/benriggins/sovereign-headquarters-frameworks"
+repository-code: "https://github.com/benriggins/sovereign-headquarters-frameworks"
+abstract: >
+  Open-source frameworks, AI prompts, cleaned transcripts, and Builder Pack items from
+  Sovereign Headquarters and the Benjamin Riggins YouTube channel — Christian entrepreneurship,
+  AI adoption, and marketplace stewardship.
+license: "CC-BY-4.0"
+date-released: "2026-09-18"

@@ -1,0 +1,8 @@
+# Sovereign Headquarters — Frameworks
+
+> Open-source frameworks, prompts, transcripts, and Builder Pack items behind
+> sovereignheadquarters.com and the Benjamin Riggins YouTube channel.
+
+This repository has no content yet — the first long-form video and magazine issue are in
+production. Check `frameworks/`, `transcripts/`, and `pack/` as they populate; each entry is
+self-contained and citable (see CITATION.cff).
