@@ -1,7 +1,7 @@
 # Issue 01 — Research
 
-**Anchor video:** [The 3-Level Reward System That Ended My Burnout](https://www.youtube.com/@BenjaminRiggins)
-(Benjamin Riggins, published 2026-09-17)
+**Anchor video:** "The 3-Level Reward System That Ended My Burnout" (Benjamin Riggins, published
+2026-09-17) — YouTube URL not yet on record, will be added once confirmed.
 
 ## Anchor video summary
 
@@ -35,5 +35,5 @@ _Populated as experiments run — worked/failed/cost/time/skill/supervision, per
 _Every claim in the finished issue cites a primary source here, dated and linked._
 
 ---
-Governed by `MAGAZINE-ISSUE-SOP.md` Phase 1 in the private `sovereign-hq` repo — see this
+Governed by [`MAGAZINE-ISSUE-SOP.md` Phase 1](https://github.com/benriggins/sovereign-hq/blob/main/MAGAZINE-ISSUE-SOP.md) in the private `sovereign-hq` repo — see this
 folder's `README.md` for what belongs here and what stays private.
