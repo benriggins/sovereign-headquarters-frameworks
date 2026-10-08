@@ -1,3 +1,5 @@
 # transcripts
 
-Empty pending the first published derivative. See the parent README for what belongs here.
+Cleaned, structured transcripts of published long-form videos.
+
+- [video-01: The 3-Level Reward System That Ended My Burnout](video-01.md)

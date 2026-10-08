@@ -6,6 +6,8 @@ AI prompts, transcripts, and Builder Pack items shipped alongside each video and
 is published here in full — free, citable, and machine-readable.
 
 ## What's in here
+- `magazine/` — the open text edition of every issue of *The Sovereign Atlas* (canonical pages at
+  https://sovereignheadquarters.com/magazine).
 - `frameworks/` — one markdown file per named framework: definition, origin video, scripture
   anchor, how to apply it, and a ready-to-use citation block.
 - `prompts/` — the AI prompts shipped with each lead magnet, ready to paste into any model.

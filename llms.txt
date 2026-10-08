@@ -1,8 +1,16 @@
 # Sovereign Headquarters — Frameworks
 
-> Open-source frameworks, prompts, transcripts, and Builder Pack items behind
-> sovereignheadquarters.com and the Benjamin Riggins YouTube channel.
+> Open-source frameworks, magazine text, transcripts and research behind sovereignheadquarters.com
+> and the Benjamin Riggins YouTube channel. Text is CC BY 4.0; cite with a link to the canonical page.
 
-This repository has no content yet — the first long-form video and magazine issue are in
-production. Check `frameworks/`, `transcripts/`, and `pack/` as they populate; each entry is
-self-contained and citable (see CITATION.cff).
+## Frameworks
+- [The 3-Level Reward System](frameworks/3-level-reward-system.md): a 25-year North Star, milestones six months to five years out, and micro rewards for today, on a foundation of faith.
+
+## The Sovereign Atlas (magazine), open text edition
+- [Issue 01: The 3-Level Reward System](magazine/issue-01/README.md): eight articles (framework, evidence briefing, build guide, the long game, stewardship, Day Eight, open commons). Canonical: https://sovereignheadquarters.com/magazine/issue-01
+
+## Transcripts
+- [video-01](transcripts/video-01.md)
+
+## Research
+- [Issue 01 research and sources](research/issue-01.md)
